@@ -1,0 +1,2 @@
+# Student-Recruiter
+This project is about develop a recruiting system for universities who manage the visits of high school students to their campus. This involves many stakeholders across many campus organizations (from administrative units to academic departments to room schedulers), and the coordination of many events and schedules (from large introductory sessions to individual department visits to career services to receptions).
